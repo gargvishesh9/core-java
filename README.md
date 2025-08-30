@@ -5,7 +5,7 @@
 ---
 
 ## 📖 About
-This repository contains **clean, Markdown-based notes** on Core Java concepts.  
+This repository contains **clean notes** on Core Java concepts.  
 It’s designed for:
 - Quick **revision before interviews**
 - Strengthening **Java fundamentals**
