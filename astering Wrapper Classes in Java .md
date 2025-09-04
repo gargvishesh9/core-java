@@ -1,5 +1,5 @@
 
-# Mastering Wrapper Classes in Java
+# Wrapper Classes in Java
 
 ## Table of Contents
 1. [Introduction to Wrapper Classes](#introduction-to-wrapper-classes)
